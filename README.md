@@ -12,7 +12,9 @@ heavy wip
   </a>
 </p>
 
+figuring out colours
 
+$$\color{#e8cbd4}" \space \color{white}\text{come o𝓷 girls !} \space \color{#e8cbd4}" \space \color{#a793a6}(◞ \space ༎ \space ◟⑅) \space \color{#e8cbd4}\text{pr3ty seriouskin} \space 
 
 <p align="center"> 
   
