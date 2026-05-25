@@ -14,7 +14,8 @@ heavy wip
 
 
 
-<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+Australia+VIC+WA+NT+Hand+Guides&pause=1000&color=860711&repeat=false&width=435&lines="What+kind+of+animal+even+ARE+you?%22)](https://git.io/typing-svg)
+<p align="center"> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+Australia+VIC+WA+NT+Hand+Guides&pause=1000&color=860711&repeat=false&width=435&lines="What+kind+of+animal+even+ARE+you?%22)](https://git.io/typing-svg)
 </p>
   
 <p align="center">
