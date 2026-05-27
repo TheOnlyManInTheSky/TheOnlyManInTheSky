@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=770909&center=true&vCenter=true&width=600&height=40&lines=The+strongest+men+are+the+most+alone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=770909&center=true&vCenter=true&width=600&height=40&lines="The+strongest+men+are+the+most+alone")](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=TheOnlyManInTheSky&style=plastic&label=HOME+TEAMERS&color=B31942">  
