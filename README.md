@@ -22,6 +22,6 @@ heavy wip
 </p>
   
 <p align="center">
-    <ahref
+    <a href="https://theonlymaninthesky.straw.page">
     <span style="font-size:30px;"><b>"Yummers"</b></span>
   </a>
