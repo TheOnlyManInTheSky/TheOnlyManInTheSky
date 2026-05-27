@@ -20,9 +20,8 @@
 
 
 <p align="center">
-    <a href="buhwip">
-    <span style="font-size:10px;"><b>"straw"</b></span>
-  </a>
+ ata](buh)⠀⠀⠀⠀[strwpg](buh)⠀⠀⠀⠀[prnscc](buh)
+
 
 
 <p align="center">
