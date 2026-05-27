@@ -8,7 +8,7 @@
 
 
 
-<p align="center"><img src=""p>
+<p align="center"><img src="https://github.com/TheOnlyManInTheSky/buhbuh/issues/1"p>
 
 
 <p align="center">
