@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=770909&center=true&vCenter=true&width=600&height=40&lines="The+strongest+men+really+are+the+most+alone")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=770909&center=true&width=600&height=40&lines="The+strongest+men+really+are+the+most+alone")](https://git.io/typing-svg)
 
 
 <p align="center">
