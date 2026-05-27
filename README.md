@@ -8,8 +8,9 @@
 
 
 
-<p align="center"><img src="https://github.com/TheOnlyManInTheSky/buhbuh/issues/1"p>
-
+<div align="center">
+<img src="https://files.catbox.moe/e0sr61.png">
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
