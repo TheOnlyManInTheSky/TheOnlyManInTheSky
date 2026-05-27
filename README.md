@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=TheOnlyManInTheSky&style=plastic&label=HOME+TEAMERS&color=B31942">  
-</p>
+https://komarev.com/ghpvc/?username=TheOnlyManInTheSky&style=plastic&label=HOME+TEAMERS&color=B31942">  
+
 
 
 heavy wip
