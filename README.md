@@ -20,7 +20,7 @@
 
 
 <p align="center">
- ata](buh)⠀⠀⠀⠀[strwpg](buh)⠀⠀⠀⠀[prnscc](buh)
+ [ata](buh)⠀⠀⠀⠀[strwpg](buh)⠀⠀⠀⠀[prnscc](buh)
 
 
 
