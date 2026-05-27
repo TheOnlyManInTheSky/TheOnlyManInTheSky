@@ -12,7 +12,7 @@ heavy wip
   </a>
 </p>
 
-figuring out colours
+
 
 
 <p align="center"> 
@@ -22,6 +22,5 @@ figuring out colours
 </p>
   
 <p align="center">
-  
     <span style="font-size:30px;"><b>"Yummers"</b></span>
   </a>
