@@ -22,7 +22,7 @@
 
 <p align="center">
     
-[straw](https://theonlymaninthesky.straw.page/) [ata](https://onlymaninthesky.atabook.org)
+[straw](https://theonlymaninthesky.straw.page/)    ,,      [ata](https://onlymaninthesky.atabook.org)
 
 </p>
 
