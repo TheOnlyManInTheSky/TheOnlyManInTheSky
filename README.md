@@ -22,7 +22,7 @@
 
 <p align="center">
     
-[straw](https://theonlymaninthesky.straw.page/)    ,,      [ata](https://onlymaninthesky.atabook.org)
+[straw](https://theonlymaninthesky.straw.page/)    ,,      [ata](https://onlymaninthesky.atabook.org)  ,,   [tiktok](https://www.tiktok.com/@thesecolddeadhands?_r=1&_t=ZN-96jtcs4fX9i)
 
 </p>
 
