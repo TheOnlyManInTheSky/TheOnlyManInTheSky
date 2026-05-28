@@ -22,7 +22,4 @@
 
 [𝗦𝗧𝗥𝗔𝗪𝗣𝗔𝗚𝗘](https://theonlymaninthesky.straw.page/)
 
-<p align="center">
-    <a href="https://theonlymaninthesky.straw.page">
-    <span style="font-size:30px;"><b>"Yummers"</b></span>
-  </a>
+
