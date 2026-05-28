@@ -20,7 +20,7 @@
 
 <p></p>
 
-everything in my strawpage leads to my socials !!
+[𝗦𝗧𝗥𝗔𝗪𝗣𝗔𝗚𝗘](https://theonlymaninthesky.straw.page/)
 
 <p align="center">
     <a href="https://theonlymaninthesky.straw.page">
