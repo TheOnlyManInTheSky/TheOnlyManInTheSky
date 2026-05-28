@@ -12,7 +12,7 @@
 <img src="https://files.catbox.moe/e0sr61.png">
 </p>
 
-<p align="center">
+
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ss45ovw53cd652i3mfy2ekxpju&cover_image=true&theme=novatorem&show_offline=true&background_color=540000&interchange=true&profanity=false&bar_color=000000&bar_color_cover=false">
   </a>
@@ -20,6 +20,7 @@
 
 <p></p>
 
+<p align="center">
 [straw](https://theonlymaninthesky.straw.page/) [ata](https://onlymaninthesky.atabook.org)
-
+</p>
 
