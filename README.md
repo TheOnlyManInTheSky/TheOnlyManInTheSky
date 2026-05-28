@@ -20,13 +20,6 @@
 
 <p></p>
 
-
-
-<p align="center">
-[Ata]=(https://onlymaninthesky.atabook.org)⠀[straw]=(https://theonlymaninthesky.straw.page/) [tiktok]=(https://www.tiktok.com/@thesecolddeadhands?_r=1&_t=ZN-96jekPbCoOk)
-</a>
-
-
 <p align="center">
     <a href="https://theonlymaninthesky.straw.page">
     <span style="font-size:30px;"><b>"Yummers"</b></span>
