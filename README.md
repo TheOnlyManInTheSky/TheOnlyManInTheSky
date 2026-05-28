@@ -20,6 +20,8 @@
 
 <p></p>
 
+everything in my strawpage leads to my socials !!
+
 <p align="center">
     <a href="https://theonlymaninthesky.straw.page">
     <span style="font-size:30px;"><b>"Yummers"</b></span>
